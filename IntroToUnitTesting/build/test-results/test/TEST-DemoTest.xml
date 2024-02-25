@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2024-02-25T19:59:30" hostname="DESKTOP-SEUF5NO" time="0.012">
+  <properties/>
+  <testcase name="F_VariableIsNotTriangle_1" classname="DemoTest" time="0.003"/>
+  <testcase name="F_VariableIsNotTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="F_VariableIsNotTriangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="negative_testInput" classname="DemoTest" time="0.003"/>
+  <testcase name="F_NegativeInput_1" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_2" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_3" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_4" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_5" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_6" classname="DemoTest" time="0.0"/>
+  <testcase name="F_NegativeInput_7" classname="DemoTest" time="0.0"/>
+  <testcase name="positive_testInput" classname="DemoTest" time="0.0"/>
+  <testcase name="F_nonInteger" classname="DemoTest" time="0.0"/>
+  <testcase name="F_SignIsNotTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="F_SignIsNotTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="F_SignIsNotTriangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_4" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_5" classname="DemoTest" time="0.0"/>
+  <testcase name="F_EqualityIsNotTriangle_6" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_1" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_2" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_3" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_4" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_5" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_6" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_7" classname="DemoTest" time="0.0"/>
+  <testcase name="F_ZeroEdge_8" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_4" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_5" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_6" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_7" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
